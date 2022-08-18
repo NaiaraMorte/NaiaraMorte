@@ -2,12 +2,11 @@
 
 - 🔭 Futura Software Developer
 - 🌱 Estudando HTML, CSS, JavaScript.
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://linkedin.com/in/naiaralindolfo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naiaramorte&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiaramorte&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=naiaramorte&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiaramorte&layout=compact&langs_count=7&theme=synthwave"/>
  
    <img src="https://i.picasion.com/pic92/13c726ee0326fb0b448d0af9cdd94529.gif" width="100" height="100" border="0" align="right" alt="na-gif"></a>
     
