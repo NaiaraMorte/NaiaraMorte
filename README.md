@@ -13,11 +13,9 @@
 </div>
   
   ##
-  
+  <div> <img src="https://i.picasion.com/pic92/13c726ee0326fb0b448d0af9cdd94529.gif" width="100" height="100" border="0" align="right" alt="na-gif"></a>
+  </div>
   <div>
-  
-   <img src="https://i.picasion.com/pic92/13c726ee0326fb0b448d0af9cdd94529.gif" width="100" height="100" border="0" align="right" alt="na-gif"></a>
-  
     <a href="https://www.linkedin.com/in/naiaralindolfo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:naiaralindolfo1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "mailto:naiara.lindolfo@hotmail.com"><img                        src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="blank"></a>
