@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Naiara Morte
 
 - 🔭 Futura Software Developer
-- 🌱 Estudando HTML, CSS, JavaScript.
+- 🌱 Estudando Lógica De Programação, HTML, CSS, JavaScript.
 
 <div align="center">
   <a href="https://linkedin.com/in/naiaralindolfo">
