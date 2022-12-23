@@ -1,7 +1,8 @@
 ### Oii! Eu sou a Naiara Morte
 
 - 🔭 Futura Software Developer
-- 🌱 Estudando Lógica De Programação, HTML, CSS, JavaScript.
+- U+1F393 UNIP e Alura
+- 🌱 Estudando Análise e Desenvolimento de Sistemas, Lógica De Programação, HTML, CSS, JavaScript.
 
 <div align="center">
   <a href="https://linkedin.com/in/naiaralindolfo">
