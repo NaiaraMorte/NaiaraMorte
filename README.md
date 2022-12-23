@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Naiara Morte
 
 - 🔭 Futura Software Developer
-- U+1F393 UNIP e Alura
+- 🎓 UNIP e Alura
 - 🌱 Estudando Análise e Desenvolimento de Sistemas, Lógica De Programação, HTML, CSS, JavaScript.
 
 <div align="center">
